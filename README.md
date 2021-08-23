@@ -4,6 +4,7 @@
 - 💬 If what I say makes you feel uncomfortable, please tell me!
 
 ![MicroCBer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicroCBer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroCBer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Works
 ![LSP](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=live-songplayer)
