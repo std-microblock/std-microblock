@@ -6,6 +6,10 @@
 ![MicroCBer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicroCBer)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroCBer)](https://github.com/anuraghazra/github-readme-stats)
 
+## Useful Links
+[Google C++ Syle Guide](https://google.github.io/styleguide/cppguide.html)
+
+
 ## My Works
 [![LSP](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=live-songplayer)](https://github.com/MicroCBer/live-songplayer)
 
