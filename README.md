@@ -8,8 +8,8 @@
 
 就这样，我的态度是鲜明的
 
-### 我就是爱中国，爱共产党，你要是不服就滚蛋，别跟我说话。
-### I love China, my country. I love our great Communist Party of China. If you have some stupid western bias please FUCK OFF and DONT TALK TO ME.
+# 我就是爱中国，爱共产党，你要是不服就滚蛋，别跟我说话。
+# I love China, my country. I love our great Communist Party of China. If you have some stupid western bias please FUCK OFF and DONT TALK TO ME.
 
 ## Hi there 👋
 
