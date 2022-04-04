@@ -26,5 +26,6 @@
 
 [![LSP](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=live-songplayer)](https://github.com/MicroCBer/live-songplayer)
 
-[![BIVT](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=BilibiliInteractiveVideoTree)](https://github.com/MicroCBer/BilibiliInteractiveVideoTree)
+[![BIVT](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=BilibiliInteractiveVideoTree)(https://github.com/MicroCBer/BilibiliInteractiveVideoTree)
+
 [![WordSearcher](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=WordSearcher)](https://github.com/MicroCBer/WordSearcher)
