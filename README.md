@@ -11,6 +11,8 @@
 
 [![NCM](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=BetterNCM)](https://github.com/MicroCBer/BetterNCM)
 
+[![ProjSTTTS](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=ProjSTTTS)](https://github.com/MicroCBer/ProjSTTTS)
+
 [![LSP](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=live-songplayer)](https://github.com/MicroCBer/live-songplayer)
 
 [![BIVT](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=BilibiliInteractiveVideoTree)](https://github.com/MicroCBer/BilibiliInteractiveVideoTree)
