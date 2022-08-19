@@ -1,8 +1,9 @@
 <div align="center">
 
-# [MicroBlock](https://microblock.cc/)
+# [MicroBlock 🇨🇳](https://microblock.cc/)
 
-### 🇨🇳 Developer | Gamer
+
+### Developer | Gamer
 
 ![](https://github-readme-stats.vercel.app/api?username=MicroCBer)
 
