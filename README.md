@@ -25,7 +25,6 @@
 
 [![BIVT](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=BilibiliInteractiveVideoTree)](https://github.com/MicroCBer/BilibiliInteractiveVideoTree)
 
-[![WordSearcher](https://github-readme-stats.vercel.app/api/pin/?username=MicroCBer&repo=WordSearcher)](https://github.com/MicroCBer/WordSearcher)
 
 ## F**K IT BBC
 
