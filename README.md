@@ -1,9 +1,4 @@
 <div align="center">
-
-![CN](https://user-images.githubusercontent.com/66859419/193980520-fedb4fff-7367-47c4-94ea-e1d78df67b0a.png)
-
-
-
 # [MicroBlock 🇨🇳](https://microblock.cc/)
 
 
