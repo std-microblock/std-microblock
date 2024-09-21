@@ -1,20 +1,20 @@
 <div align="center">
 
   
- # [MicroBlock 🍊](https://microblock.cc/)
+<a href="microblock.cc">
+<img src="https://microblock.cc/std-github.webp" />
+</a>
 
+<a href="./#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/?username=std-microblock&layout=compact&theme=dracula&hide_border=true" height=213 alt="GitHub Stats" />
+</a>
+<a href="./#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/?username=std-microblock&layout=compact" height=213 alt="GitHub Stats" />
+</a>
+<a href="./#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=std-microblock&layout=compact&theme=dracula&hide_border=true" height=213 alt="Top Languages" />
+</a>
+<a href="./#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=std-microblock&layout=compact" height=213 alt="Top Languages" />
+</a>
 
-### (🧑🏻‍💻 & 🎮) >> 🍊
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MicroCBer)
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroCBer)
-
-## 🔗
-[Google C++ Syle Guide](https://google.github.io/styleguide/cppguide.html)
-
-[语义化版本](https://semver.org/lang/zh-CN/)
-
-## 🍬
-
-[![MicroCBer/BetterNCM - GitHub](https://gh-card.dev/repos/MicroCBer/BetterNCM.svg)](https://github.com/MicroCBer/BetterNCM)
